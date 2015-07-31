@@ -1,0 +1,38 @@
+{
+  "name": "webcom",
+  "version": "0.2.0-beta",
+  "description": "Webcom library",
+  "main": "webcom-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "realtime",
+    "websocket",
+    "backendless"
+  ],
+  "author": "Webcom <webcom.ops@orange.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webcom-components/webcom-npm.git"
+  },
+  "contributors": [
+    {
+      "name": "Julien Delage",
+      "email": "julien.delage@orange.com"
+    },
+    {
+      "name": "Paul Musso",
+      "email": "paul.musso@orange.com"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.33"
+  },
+  "dependencies": {
+    "faye-websocket": "0.9.3",
+    "request": "~2.60.0"
+  },
+  "readmeFilename": "README.md",
+  "license" : "SEE LICENSE IN LICENSE.md"
+}
