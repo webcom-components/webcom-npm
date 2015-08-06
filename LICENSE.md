@@ -1,7 +1,7 @@
 Webcom. Build realtime apps. Share and sync data instantly between your clients
 
 Module name: Webcom
-Version:     0.2.0-beta
+Version:     0.2.2
 Created:     07/15/2015
 
 Copyright (C) <2015> Orange

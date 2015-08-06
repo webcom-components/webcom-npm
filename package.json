@@ -1,6 +1,6 @@
 {
   "name": "webcom",
-  "version": "0.2.0-beta",
+  "version": "0.2.2",
   "description": "Webcom library",
   "main": "webcom-node.js",
   "scripts": {
