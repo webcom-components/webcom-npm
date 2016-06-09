@@ -63,7 +63,7 @@ Basically, webcom-base is:
 * Based on scalable middleware (NoSQL database)
 
 
-[Quickstart]: https://webcom.orange.com/doc/tutorial-quickstart.html
-[DataSyncDoc]: https://webcom.orange.com/doc/Webcom.html
-[ComSDKDoc]: https://webcom.orange.com/doc/tutorial-comsdk_WebRTC.html
-[Examples]: https://webcom.orange.com/doc/tutorial-examples.html
+[Quickstart]: https://datasync.orange.com/doc/tutorial-quickstart.html
+[DataSyncDoc]: https://datasync.orange.com/doc/Webcom.html
+[ComSDKDoc]: https://datasync.orange.com/doc/tutorial-comsdk_WebRTC.html
+[Examples]: https://datasync.orange.com/doc/tutorial-examples.html
