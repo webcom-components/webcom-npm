@@ -1,15 +1,23 @@
 {
   "name": "webcom",
-  "version": "1.3.2",
+  "version": "2.0.0",
   "description": "Webcom library",
   "main": "webcom-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "realtime",
-    "websocket",
-    "backendless"
+    "flexible datasync",
+    "webcom",
+    "real-time",
+    "database",
+    "backend as a service",
+    "BaaS",
+    "serverless",
+    "message broker",
+    "javascript",
+    "nodejs",
+    "sdk"
   ],
   "author": "Webcom <webcom.ops@orange.com>",
   "repository": {
@@ -22,8 +30,8 @@
       "email": "julien.delage@orange.com"
     },
     {
-      "name": "Paul Musso",
-      "email": "paul.musso@orange.com"
+      "name": "Vincent Louis",
+      "email": "vincent.louis@orange.com"
     }
   ],
   "engines": {
